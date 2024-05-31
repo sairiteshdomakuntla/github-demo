@@ -1,3 +1,3 @@
 # github-demo
 This is my first Git Repository
-by Sai Ritesh
+by Sai Ritesh D
